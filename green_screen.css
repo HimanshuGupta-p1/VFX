@@ -1,0 +1,14 @@
+body {
+    background-color:steelblue;
+    margin: 40px;
+    background-size: ;
+  }
+  
+  canvas {
+    border: 5px solid black;
+    height: 200px;
+  }
+  
+  input {
+    font-size: 12pt;
+  }
