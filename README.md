@@ -1,5 +1,5 @@
 # GREEN SCREEN VFX
-This will change the green background with the given image.
+This will change the green background of the image with the other background image input by the user.
 
-In this the algorithm used in the javascript is quite complicated, you can first understand it, I also provided comments on the complicated part.
-I didn't work much on CSS, you can work on it to make it more interactive.
+### Reference to the functions used to set and get RGB values of a pixel
+https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js
